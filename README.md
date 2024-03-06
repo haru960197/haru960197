@@ -1,4 +1,4 @@
-### Hi there 👋
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=haru960197&layout=compact&theme=github_dark&hide_border=true)
 
 <!--
 **haru960197/haru960197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
